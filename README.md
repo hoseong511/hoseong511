@@ -2,7 +2,7 @@
 
 <!--
 **hoseong511/hoseong511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,4 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+AWS
+http://52.79.196.232/
+http://52.79.196.232:8080
 
+github.io
+https://hoseong511.github.io/
+https://hoseong511.github.io/moviehoho/
