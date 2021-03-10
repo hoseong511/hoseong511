@@ -14,10 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-AWS  
-http://52.79.196.232/  
-http://52.79.196.232:8080   
 
-github.io  
-https://hoseong511.github.io/  
-https://hoseong511.github.io/moviehoho/  
