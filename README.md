@@ -2,7 +2,7 @@
 
 https://replit.com/@hoseong511
 
-<a href="javascript.void(0)" target="_blank"><img src="https://img.shields.io/badge/Python-#3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<a href="javascript.void(0)" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
 <!--
 **hoseong511/hoseong511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
