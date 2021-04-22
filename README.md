@@ -12,11 +12,10 @@
 <a href="https://replit.com/@hoseong511" target="_blank">
   <img src="https://img.shields.io/badge/repl.it-667881?style=flat-square&logo=repl.it&logoColor=white"/>
 </a>
-<a href="https://replit.com/@hoseong511" target="_blank">
-  <img src="https://img.shields.io/badge/repl.it-667881?style=flat-square&logo=repl.it&logoColor=white"/>
-</a>
 
-[![Hoseong's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoseong&theme=radical)](https://github.com/hoseong511)
+
+[![Hoseong's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoseong511&theme=radical&count_private=true)](https://github.com/hoseong511)
+
 <!--출처: https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md-->
 <!--
 **hoseong511/hoseong511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
