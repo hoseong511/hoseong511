@@ -17,7 +17,6 @@
   <img src="https://img.shields.io/badge/repl.it-667881?style=flat-square&logo=repl.it&logoColor=white"/>
 </a>
 <br>
-[Hoseong's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoseong511&theme=radical&count_private=true)
 
 <!--출처: https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md-->
 <!--
