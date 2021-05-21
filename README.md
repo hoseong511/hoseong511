@@ -12,10 +12,11 @@
   <img src="https://img.shields.io/badge/Windows-0078D6?style=square&logo=Windows&logoColor=white"/>
   <img src="https://img.shields.io/badge/macOS-010101?style=square&logo=macOS&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=square&logo=Linux&logoColor=white"/>
+  <a href="https://replit.com/@hoseong511" target="_blank" rel="noopener noreferrer" >
+    <img src="https://img.shields.io/badge/repl.it-667881?style=flat-square&logo=repl.it&logoColor=white"/>
+  </a>
 </p>
-<a href="https://replit.com/@hoseong511" target="_blank" rel="noopener noreferrer" >
-  <img src="https://img.shields.io/badge/repl.it-667881?style=flat-square&logo=repl.it&logoColor=white"/>
-</a>
+
 <br>
 
 <!--출처: https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md-->
