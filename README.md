@@ -3,6 +3,11 @@
 <!--정리하기 https://day-thirteen-and-fourteen.hoseong511.repl.co/ -->
 <!-- https://nodebird.hoseong511.repl.co -->
 <p align="center">
+  <a href="https://solved.ac/thdghtjd115">
+    <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=thdghtjd115"/>
+  </a>
+<br>
+<br>
   <img src="https://img.shields.io/badge/JavaScript-F7dF1E?style=square&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/React.js-61DAF8?style=square&logo=React&logoColor=white"/>
@@ -17,11 +22,20 @@
   <a href="https://replit.com/@hoseong511" target="_blank" rel="noopener noreferrer" >
     <img src="https://img.shields.io/badge/repl.it-667881?style=flat-square&logo=repl.it&logoColor=white"/>
   </a>
+  <br>
+  <br>
+
 </p>
 
 <br>
    
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=thdghtjd115)](https://solved.ac/thdghtjd115)
+   
+
+   
+   
+   
+<!-- [![hoseong511's github stats](https://github-readme-stats.vercel.app/api?username=hoseong511&hide=issues&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)      -->
+<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=thdghtjd115)](https://solved.ac/thdghtjd115) -->
 
 <!--출처: https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md-->
 <!--
