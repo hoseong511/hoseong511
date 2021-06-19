@@ -3,9 +3,7 @@
 <!--정리하기 https://day-thirteen-and-fourteen.hoseong511.repl.co/ -->
 <!-- https://nodebird.hoseong511.repl.co -->
 <p align="center">
-  <a href="https://solved.ac/thdghtjd115">
-    <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=thdghtjd115"/>
-  </a>
+ 
 <br>
 <br>
   <img src="https://img.shields.io/badge/JavaScript-F7dF1E?style=square&logo=JavaScript&logoColor=white"/>
