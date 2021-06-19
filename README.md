@@ -22,7 +22,9 @@
   </a>
   <br>
   <br>
-
+  <a href="https://solved.ac/thdghtjd115" target="_blank" rel="noopener noreferrer" >
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=thdghtjd115"/>
+  </a>
 </p>
 
 <br>
