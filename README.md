@@ -2,9 +2,8 @@
 
 <!--정리하기 https://day-thirteen-and-fourteen.hoseong511.repl.co/ -->
 <!-- https://nodebird.hoseong511.repl.co -->
-<p align="center">
  
-<br>
+<!-- <br>
 <br>
   <img src="https://img.shields.io/badge/JavaScript-F7dF1E?style=square&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=square&logo=Python&logoColor=white"/>
@@ -21,17 +20,17 @@
     <img src="https://img.shields.io/badge/repl.it-667881?style=flat-square&logo=repl.it&logoColor=white"/>
   </a>
   <br>
-  <br>
-<!--   <a href="https://solved.ac/thdghtjd115" target="_blank" rel="noopener noreferrer" >
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=thdghtjd115"/>
-  </a> -->
+  <br> -->
+ 
+
+<p align="center">
+  Hi there 👋👋👋
+ <br>
+ <br>
+ <a href="https://solved.ac/thdghtjd115" target="_blank" rel="noopener noreferrer" >
+   <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=thdghtjd115"/>
+ </a>
 </p>
-
-<br>
-   
-   
-
-   
    
    
 <!-- [![hoseong511's github stats](https://github-readme-stats.vercel.app/api?username=hoseong511&hide=issues&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)      -->
