@@ -21,14 +21,9 @@
   </a>
   <br>
   <br> -->
- 
+<!-- <h1 style="color:#950104; font-family: poppins;"> <img src="https://raw.githubusercontent.com/kube/vscode-42header/master/42.png" width=50> Seoul</h1> -->
 
-<p align="center">
-  Hi there 👋👋👋
- <br>
- <br>
- :hatching_chick: :hatching_chick: :hatching_chick:
- <br>
+### <h3>Hi there 👋👋👋</h1>
  <a href="https://github.com/JaeSeoKim/badge42" target="_blank" rel="noopener noreferrer" >
    <img src="https://badge42.herokuapp.com/api/stats/hossong?privacyEmail=true"/>
  </a>
@@ -37,7 +32,6 @@
  <a href="https://solved.ac/thdghtjd115" target="_blank" rel="noopener noreferrer" >
    <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=thdghtjd115"/>
  </a>
-</p>
 
 
  
