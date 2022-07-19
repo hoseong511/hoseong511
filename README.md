@@ -25,7 +25,7 @@
 
 ### <h3>Hi there 👋👋👋</h1>
  <a href="https://github.com/JaeSeoKim/badge42" target="_blank" rel="noopener noreferrer" >
-   <img src="https://badge42.vercel.app/api/v2/stats/cl1b8go25000609l4biewghgn?cursusId=21"/>
+   <img src="https://badge42.vercel.app/api/v2/stats/582963165c0955a8e7dd66be1fcd6eab2a528411326571661aff0f58dc61df8e?cursusId=21"/>
  </a>
  <br>
  <br>
