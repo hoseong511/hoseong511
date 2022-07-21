@@ -24,12 +24,12 @@
 <!-- <h1 style="color:#950104; font-family: poppins;"> <img src="https://raw.githubusercontent.com/kube/vscode-42header/master/42.png" width=50> Seoul</h1> -->
 
 ### <h3>Hi there 👋👋👋</h1>
- <a href="https://github.com/JaeSeoKim/badge42">
+ <!-- <a href="https://github.com/JaeSeoKim/badge42">
   <img src="https://badge42.vercel.app/api/v2/cl1b8go25000609l4biewghgn/stats?cursusId=21&coalitionId=85" alt="hossong's 42 stats" />
  </a>
  <br>
  <br>
- <!--<a href="https://solved.ac/thdghtjd115" target="_blank" rel="noopener noreferrer" >
+<a href="https://solved.ac/thdghtjd115" target="_blank" rel="noopener noreferrer" >
    <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=thdghtjd115"/>
  </a>-->
 
